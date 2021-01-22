@@ -2,11 +2,16 @@
 
 "We put the _laughter_ in _slaughter_"
 
-A quick and dirty script to get all instances of words that appear inside other words.
+A quick and dirty script to get all instances of words that appear inside other words. The whole lot is maybe quicker to navigate in [this Google spreadsheet](https://j.mp/2McKenp).
+
+## Notes
+
+All of the code that I used to make the list is in the [python_fun_all_the_scripts](/python_fun_all_the_scripts) folder.
 
 ```words_alpha.txt``` is from https://github.com/dwyl/english-words
 
-Runs as an ipython notebook, using tinydb to collate a database.
+
+I haven't looked at the code for a while, I threw it together fairly quickly. But the original runs as an ipython notebook, using tinydb to collate a database.
 
 v0.3 of Python code:
 
